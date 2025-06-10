@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "Bajo peso",
+    "minimo": 0,
+    "maximo": 18.49,
+    "color": "#5bc0de",
+    "descripcion": "Peso inferior al saludable. Puede indicar desnutrición u otros problemas de salud."
+  },
+  {
+    "nombre": "Normal",
+    "minimo": 18.5,
+    "maximo": 24.99,
+    "color": "#5cb85c",
+    "descripcion": "Rango de peso saludable asociado con menor riesgo de enfermedades."
+  },
+  {
+    "nombre": "Sobrepeso",
+    "minimo": 25,
+    "maximo": 29.99,
+    "color": "#f0ad4e",
+    "descripcion": "Exceso de peso con riesgo moderado de enfermedades relacionadas con el peso."
+  },
+  {
+    "nombre": "Obesidad Clase I",
+    "minimo": 30,
+    "maximo": 34.99,
+    "color": "#d9534f",
+    "descripcion": "Obesidad moderada. Mayor riesgo de enfermedades metabólicas y cardiovasculares."
+  },
+  {
+    "nombre": "Obesidad Clase II",
+    "minimo": 35,
+    "maximo": 39.99,
+    "color": "#c9302c",
+    "descripcion": "Obesidad severa. Riesgo elevado de problemas graves de salud."
+  },
+  {
+    "nombre": "Obesidad Clase III",
+    "minimo": 40,
+    "maximo": 100,
+    "color": "#a94442",
+    "descripcion": "Obesidad muy severa o mórbida. Riesgo extremadamente alto de complicaciones."
+  }
+]
